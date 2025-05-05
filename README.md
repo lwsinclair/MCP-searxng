@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/secretiveshell-mcp-searxng-badge.png)](https://mseep.ai/app/secretiveshell-mcp-searxng)
+
 # MCP-searxng
 
 An MCP server for connecting agentic systems to search systems via [searXNG](https://docs.searxng.org/).
