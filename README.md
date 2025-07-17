@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ihor-sokoliuk-mcp-searxng-badge.png)](https://mseep.ai/app/ihor-sokoliuk-mcp-searxng)
+
 # MCP-searxng
 
 An MCP server for connecting agentic systems to search systems via [searXNG](https://docs.searxng.org/).
